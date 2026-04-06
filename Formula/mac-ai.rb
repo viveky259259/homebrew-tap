@@ -2,7 +2,7 @@ class MacAi < Formula
   desc "MCP orchestrator powered by Apple Foundation Models"
   homepage "https://github.com/viveky259259/mac-ai"
   url "https://github.com/viveky259259/mac-ai/releases/download/v0.1.0/mac-ai-v0.1.0-aarch64-apple-darwin.tar.gz"
-  sha256 "PLACEHOLDER"
+  sha256 "e1f2e9ba78ada19439d46d26306fe831a1b58636e521cc88c823d5891214e6b9"
   license "MIT"
   version "0.1.0"
 
