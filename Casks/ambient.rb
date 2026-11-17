@@ -1,6 +1,6 @@
 cask "ambient" do
-  version "0.8.0"
-  sha256 "b36bc31d603ff59aa021143170bc7ae50a13cd127a6e0a8b23780e3af09b66a5"
+  version "0.9.0"
+  sha256 "3e31366ee154d3956247e56250c5a33bcbe21db4c922e67cb9221a8e3a260ecb"
 
   # ?ref=brew labels these downloads in yaml.cafe's counts, which store no IP address or cookie.
   url "https://yaml.cafe/downloads/Ambient-#{version}.dmg?ref=brew"
